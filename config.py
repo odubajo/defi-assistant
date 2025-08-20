@@ -2,7 +2,7 @@ import streamlit as st
 
 def set_page_config():
     st.set_page_config(
-        page_title="The DeFi Lens",
+        page_title="The web3 Lens",
         page_icon="🎯",
         layout="wide",
         initial_sidebar_state="collapsed"
