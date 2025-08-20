@@ -1,10 +1,10 @@
 # requirements.txt
 
-streamlit>=1.28.0
-requests>=2.31.0
-python-dotenv>=1.0.0
-PyPDF2>=3.0.1
-python-docx>=0.8.11
+streamlit
+requests
+python-dotenv
+PyPDF2
+python-docx
 hashlib-compat
 docx2txt
 tavily-python
