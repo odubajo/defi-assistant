@@ -56,7 +56,7 @@ def extract_text_from_file(uploaded_file):
         return None
 
 def show_homepage():
-    st.markdown('<div class="main-header"><h1>🎯 DeFi Clarity Assistant</h1><p>Powered by Dobby AI</p></div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header"><h1>🎯 Web3 Navigator</h1><p>Powered by Dobby AI</p></div>', unsafe_allow_html=True)
 
     st.markdown("### Choose what you need help with:")
 
