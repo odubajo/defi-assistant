@@ -1,8 +1,8 @@
-# 🎯 DeFi Clarity Assistant
+# 🎯 web3 Clarity Assistant
 
 > Powered by Dobby AI - Your crypto-native guide to understanding DeFi protocols, news, and strategies.
 
-DeFi Clarity Assistant is a comprehensive Streamlit application that helps users navigate the complex world of Decentralized Finance (DeFi) through AI-powered explanations, document analysis, and strategic guidance.
+web3 Clarity Assistant is a comprehensive Streamlit application that helps users navigate the complex world of Decentralized Finance (DeFi) through AI-powered explanations, document analysis, and strategic guidance.
 
 ## ✨ Features
 
