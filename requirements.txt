@@ -1,10 +1,7 @@
-# requirements.txt
-
 streamlit
 requests
 python-dotenv
 PyPDF2
 python-docx
-hashlib-compat
 docx2txt
 tavily-python
